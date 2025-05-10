@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://jad.li">
+    <img alt="title" src="Zhaalys.png" />
+  </a>
+</p>
+Ahmad Faishal Majdii, 16 years old a    nd self-taught Fullstack Developer with <ins>5+ years learning experience</ins>.
+A tech enthusiast with a strong interest in Web Development, UI/UX Design, and Game Development.
+I enjoy creating interactive websites, games, and user-centric interfaces—especially projects that challenge both logic and creativity.
 
-<!--
-**zhaalys/zhaalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@zhaalys)
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=zhaalys&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Tools & Languages</summary>
+ 
+  [![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,rust,java,cs,cpp,nodejs,bun,react,vue,nuxt,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel)](https://skillicons.dev)
+</details>
+
+
+<details>
+  <summary>Wakatime Stats</summary>
+ 
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jadlionhd&layout=compact&theme=holi)](https://wakatime.com/@JadlionHD)
+</details>
+
+
+## ✉️ Reach me
+- [winterc0ldsye@gmail.com](mailto:winterc0ldsye@gmail.com)
+
