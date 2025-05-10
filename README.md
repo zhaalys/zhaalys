@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jad.li">
-    <img alt="title" src="FaishalHD.png" width="300" />
+    <img alt="title" src="FaishalHD.png" width="500" />
   </a>
 </p>
 
