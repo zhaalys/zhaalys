@@ -1,3 +1,3 @@
-# Hi there
-<br>
-Just a dev who loves turning coffee into clean, functional code.
+<p align="center">
+  <img alt="FaishalHD" src="./FaishalHD.png" width="400" />
+</p>
