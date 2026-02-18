@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="FaishalHD" src="./jackistn (1).png" width="400" />
+  <img alt="FaishalHD" src="./jackstn.png" width="400" />
 </p>
 
 ---
