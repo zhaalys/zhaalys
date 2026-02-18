@@ -1,16 +1,21 @@
 <p align="center">
-  <img alt="FaishalHD" src="./jack (1).png" width="400" />
+  <img alt="FaishalHD" src="./jackistn (1).png" width="400" />
 </p>
 
+---
 
-### Core Technologies
+<details>
+<summary><b>Core Technologies</b></summary>
+<br />
+
+### Primary Tools
 The following technologies represent my primary tools for development:
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,react,tailwind,c,postgres,supabase,vue,nodejs,mongodb,nextjs,python)](https://skillicons.dev)
 
----
+</details>
 
-## Technical Details
+---
 
 <details>
 <summary><b>Languages and Tools</b></summary>
@@ -27,7 +32,3 @@ The following technologies represent my primary tools for development:
 
 </details>
 
----
-
-## Contact and Socials
-**GitHub:** [github.com/zhaalys](https://github.com/zhaalys)
