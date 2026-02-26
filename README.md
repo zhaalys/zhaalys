@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="FaishalHD" src="./Isal (1).png" width="600" />
+  <img alt="FaishalHD" src="Img/Isal (1).png" width="600" />
 </p>
 
 ---
