@@ -1,7 +1,7 @@
 Hello World!
 
 <details>
-<summary><b>Names</b></summary>
+<summary><b>i</b></summary>
 <br />
   
 <p align="center">
