@@ -1,5 +1,12 @@
 Hello World!
 
+#include <iostream>
+
+int main()
+{
+    std::cout << "I love Japanese rock, especially Kana-Boon." << std::endl;
+    return 0;
+}
 <details>
 <summary><b>i</b></summary>
 <br />
