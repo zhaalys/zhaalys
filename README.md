@@ -1,9 +1,3 @@
-```cpp
-#include <iostream>
-
-int main()
-{
-    std::cout << "I love Kana-Boon" << std::endl;
-    return 0;
-}
-```
+<p align="center">
+  <img alt="jackistn (1).png" src="Img/Isal (1).png" width="600" />
+</p>
