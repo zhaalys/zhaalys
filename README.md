@@ -9,7 +9,7 @@
 <br />
 
 ### Primary Tools
-The following technologie represent my primary tools for development:
+The following technologies represent my primary tools for development:
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,react,tailwind,c,postgres,supabase,vue,nodejs,mongodb,nextjs,python)](https://skillicons.dev)
 
