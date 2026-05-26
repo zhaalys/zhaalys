@@ -5,7 +5,7 @@
 ---
 
 <details>
-<summary><b>Core Technologies</b></summary>
+<summary><b>Core Technologie</b></summary>
 <br />
 
 ### Primary Tools
