@@ -4,7 +4,7 @@ My experience includes building full-stack web applications, developing RESTful 
 
 I believe that great software is built through continuous learning, collaboration, and attention to detail. This GitHub serves as a collection of my personal projects, experiments, and contributions as I continue to grow as a Software Engineer.
 <p align="center">
-  <img alt="jackistn (1).png" src="Img/Isal (1).png" width="600" />
+  <img alt="jackistn (1).png" src="Img/Isal (1).png" width="400" />
 </p>
 
 
